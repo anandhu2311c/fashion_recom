@@ -206,7 +206,4 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-encoder
-encoder.keras
-pm_model.keras
-real_fashion_data.csv
+models/*
